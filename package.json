@@ -1,0 +1,32 @@
+{
+  "name": "luno-csrf",
+  "version": "1.0.0",
+  "description": "Implement CSRF protection using Luno.",
+  "main": "lib/CSRF.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunoio/luno-csrf-node.git"
+  },
+  "keywords": [
+    "luno",
+    "csrf",
+    "protection",
+    "tokens",
+    "security",
+    "user",
+    "management",
+    "api"
+  ],
+  "author": "Simon Tabor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunoio/luno-csrf-node/issues"
+  },
+  "homepage": "https://github.com/lunoio/luno-csrf-node#readme",
+  "dependencies": {
+    "scmp": "^1.0.0"
+  }
+}
